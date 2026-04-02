@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail10.png" width="800">
+</p>
+
 # Real-Time Object Recognition using OpenCV & MobileNet-SSD
 
 This project performs **real-time object recognition using a webcam** with the **MobileNet-SSD deep learning model**.
@@ -18,6 +22,12 @@ The system detects multiple objects such as:
 The project uses **OpenCV's Deep Neural Network (DNN) module** for fast object detection.
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/object-recognition-opencv.git)
 
 ## Technologies Used
 
@@ -58,3 +68,5 @@ Webcam frames are captured in real time.
 Frames are converted into blobs.
 The deep learning model predicts objects.
 Bounding boxes and labels are drawn on the detected objects.
+
+---
